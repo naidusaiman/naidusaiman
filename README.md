@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,REACT,ES6,JAVA,DSA**
+- 💬 Ask me about **HTML,CSS,JS,TS,BOOTSTRAP,REACT,ES6,DSA**
 
 - 📫 How to reach me **chsaimannaidu@gmail.com**
 
