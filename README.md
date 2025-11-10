@@ -34,12 +34,12 @@ Committed to crafting **clean, maintainable code** that balances **developer eff
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimanaidu&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimanaidu&theme=react&hide_border=true" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naidusaiman&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naidusaiman&theme=react&hide_border=true" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimanaidu&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidusaiman&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -61,14 +61,14 @@ Committed to crafting **clean, maintainable code** that balances **developer eff
 
 ### 🧩 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saimanaidu&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=naidusaiman&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/saimanaidu" target="_blank">
+  <a href="www.linkedin.com/in/chsaimannaidu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:chsaimanaidu@gmail.com" target="_blank">
@@ -80,7 +80,7 @@ Committed to crafting **clean, maintainable code** that balances **developer eff
 
 ### ⚙️ Profile Views  
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saimanaidu&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=naidusaiman&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
 </p>
 
 ---
